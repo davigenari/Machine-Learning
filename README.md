@@ -21,7 +21,7 @@ O objetivo deste repositório é documentar a minha evolução prática na área
 
 ## 📂 Estrutura do Conteúdo
 
-- **`01-regressao/`**: Exercícios e códigos práticos de modelos de regressão.
+- **`regressao/`**: Exercícios e códigos práticos de modelos de regressão.
   - `regression.py`: Script de estudo sobre algoritmos de regressão.
 
 ---
