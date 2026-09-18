@@ -21,9 +21,8 @@ O objetivo deste repositório é documentar a minha evolução prática na área
 
 ## 📂 Estrutura do Conteúdo
 
-- **`01-aprendizado-supervisionado/`**: Algoritmos de Regressão e Classificação.
-- **`04-aprendizado-nao-supervisionado/`**: Agrupamento (Clustering) e Redução de Dimensionalidade.
-- **`05-projetos-finais/`**: Resolução de cases e projetos práticos do curso.
+- **`01-regressao/`**: Exercícios e códigos práticos de modelos de regressão.
+  - `regression.py`: Script de estudo sobre algoritmos de regressão.
 
 ---
 
