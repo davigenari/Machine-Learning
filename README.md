@@ -39,6 +39,6 @@ O objetivo deste repositório é documentar a minha evolução prática na área
    ```bash
    pip install pandas numpy matplotlib
 4. **Abra e execute no PyCharm:**
-   Abra a pasta Machine-Learning no PyCharm.
-   Configure o interpretador Python apontando para o ambiente virtual criado.
-   Execute o arquivo .py desejado.
+   Abra a pasta Machine-Learning no PyCharm,
+   configure o interpretador Python apontando para o ambiente virtual criado,
+   execute o arquivo .py desejado.
